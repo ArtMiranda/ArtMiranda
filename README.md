@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArtMiranda
 - 👀 I love Linux and open-source world
-- 🌱 I’m currently learning Javascript, CSS, HTML, C.
-- 💞️ I’m looking to collaborate on simple web projects
+- 🌱 I use Javascript, CSS, HTML, C.
+- 💞️ I’m looking for a first job on programming
 - 📫 You can reach me at my email artcamir12@gmail.com 
 
 <!---
