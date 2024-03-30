@@ -1,9 +1,9 @@
 # Artur Miranda.
 ## Full Stack Web Developer.
 
-- 🔭 Currently a Web Full Stack Developer @ Codiub - Solução Digital
-- 🌱 Using and learning Angular, Java Spring and PostgreSQL
-- 📫 You can contact me at artcamir12@gmail.com
+- 🔭 Currently a Web Full Stack Developer @ Codiub - Solução Digital.
+- 🌱 Using and learning Angular, Java Spring and PostgreSQL.
+- 📫 You can contact me at artcamir12@gmail.com.
 - ⚡ Open source is the right way to do it.
 
 ## Tools and Technologies
