@@ -1,5 +1,5 @@
-# Artur Miranda.
-## Full Stack Web Developer.
+# Artur Miranda - Full Stack Developer
+
 
 - 🔭 Currently a Web Full Stack Developer @ Codiub - Solução Digital.
 - 🌱 Using and learning Angular, Java Spring and PostgreSQL.
