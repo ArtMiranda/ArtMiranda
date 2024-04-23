@@ -12,5 +12,5 @@
 
 <div>
 <a href="mailto:artcamir12@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Email-gmail?style=for-the-badge&logo=gmail&logoColor=white&color=FFD700" target="_blank"></a>
-<a href="https://www.linkedin.com/in/artur-campos-miranda-57501722a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/art-miranda/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
