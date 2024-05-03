@@ -3,6 +3,13 @@
 - 🔭 Currently a Full Stack Web Developer at Codiub - Solução Digital.
 - 🌱 Using and learning Angular, Java Spring, and PostgreSQL.
 - 📫 You can contact me at artcamir12@gmail.com.
+
+<div align="center">
+  
+  ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtMiranda&theme=dark)
+  ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArtMiranda&theme=dark)
+</div>
+
   
 ## Tools and Technologies
 
