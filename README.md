@@ -1,22 +1,23 @@
 # Artur Miranda - Full Stack Developer
 
 - 🔭 Currently a Full Stack Web Developer at Codiub - Solução Digital.
+- 🎓 Systems Analysis and Development Undergraduate Student.
 - 🌱 Using and learning Angular, Java Spring, and PostgreSQL.
-- 📫 You can contact me at artcamir12@gmail.com.
-
-<div align="center">
+- 📫 You can reach me at artcamir12@gmail.com.
   
-  ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArtMiranda&theme=dark)
-</div>
+### 🛠️ Tools and Technologies
 
-  
-## Tools and Technologies
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css)
+![Spring](https://img.shields.io/badge/Spring-000?&logo=Spring)
+![Java](https://img.shields.io/badge/Java-000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-## Contacts
-
-<div>
-<a href="mailto:artcamir12@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Email-gmail?style=for-the-badge&logo=gmail&logoColor=white&color=FFD700" target="_blank"></a>
-<a href="https://www.linkedin.com/in/art-miranda/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+### 📫 Contacts
+[<img src="https://img.shields.io/badge/-Email-000?&logo=maildotru" alt="Email" />](mailto:artcamir12@gmail.com)
+[<img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/art-miranda/)
