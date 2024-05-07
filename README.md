@@ -19,5 +19,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 
 ### 📫 Contacts
-[<img src="https://img.shields.io/badge/-Email-000?&logo=maildotru" alt="Email" />](mailto:artcamir12@gmail.com)
-[<img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/art-miranda/)
+[<img src="https://img.shields.io/badge/-Email-000?&logo=maildotru" alt="Email" />](mailto:artcamir12@gmail.com){:target="_blank"}
+[<img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/art-miranda/){:target="_blank"}
