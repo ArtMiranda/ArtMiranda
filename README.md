@@ -12,6 +12,7 @@
 ![Spring](https://img.shields.io/badge/Spring-000?&logo=Spring)
 ![Java](https://img.shields.io/badge/Java-000?&logo=openjdk)
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=expo)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
