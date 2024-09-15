@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
+![Oracle Database](https://img.shields.io/badge/-Oracle_Database-000?&logo=oracle)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
