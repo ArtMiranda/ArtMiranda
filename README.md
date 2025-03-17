@@ -1,4 +1,4 @@
-# Artur Miranda - Full Stack Developer
+# Artur Miranda - Fullstack Developer
 
 - 🔭 Currently a Fullstack Developer at Grão Direto.
 - 🎓 Systems Analysis and Development Undergraduate Student.
