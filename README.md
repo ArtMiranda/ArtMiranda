@@ -1,7 +1,6 @@
 # Artur Miranda - Fullstack Developer
 
 - 🔭 Currently a Fullstack Developer at Grão Direto.
-- 🎓 Systems Analysis and Development Undergraduate Student.
 - 📫 You can reach me at artcamir12@gmail.com.
 - 🌎 My website: https://arturmiranda.dev.br.
   
