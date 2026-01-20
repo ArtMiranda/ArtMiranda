@@ -1,6 +1,6 @@
 # Artur Miranda - Fullstack Developer
 
-- 🔭 Currently a Fullstack Developer at Grão Direto.
+- 🔭 Currently a Fullstack Developer at [Grão Direto](https://www.graodireto.com.br/).
 - 📫 You can reach me at artcamir12@gmail.com.
   
 ### 📫 Contact me at
